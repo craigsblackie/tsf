@@ -106,7 +106,7 @@ Feel free to fork and submit pull requests for improvements or bug fixes.
 
 ### License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the GPLv3 License. See the `LICENSE` file for more details.
 
 --- 
 
